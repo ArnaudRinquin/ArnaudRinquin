@@ -12,4 +12,4 @@ Some concepts I believe in:
 
 My environment is the web, which brought me to grow skills in React, TypeScript, GraphQL, kubernetes, gitops and many other buzz words.
 
-Please don't follow me on [twitter](https://twitter.com/ArnaudRinquin)
+Please don't follow me on [twitter](https://twitter.com/lolcat_host)
