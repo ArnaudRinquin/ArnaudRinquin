@@ -1,6 +1,6 @@
 # @me
 
-Developer @gopigment
+Developer @teetsh-org
 
 Some concepts I believe in:
 * grow autonomy via strong ownership - team members lead their project, I am only here to support
