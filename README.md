@@ -9,3 +9,5 @@ Some concepts I believe in:
 * take shortcuts, not too much, know when to backtrack
 
 My environment is the web, which brought me to grow skills in React, TypeScript, GraphQL, kubernetes, gitops and many other buzz words.
+
+Now focusing a building agent stuff, the hard way, no framework. Learning a ton, but having even more fun.
